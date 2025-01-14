@@ -1,3 +1,4 @@
+﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74866 ***
 
 
@@ -636,7 +637,7 @@ _H._ (_with much feeling_). The bitterest lesson the four years have
 taught me, Esther, is that one’s earliest lessons are never unlearned.
 They have been kinder to you.
 
-_E._ (_in a low tone_). Have they? Perhaps. They have taught us both,
+_E._ (_in a tone_). Have they? Perhaps. They have taught us both,
 however, that it is not necessary to unlearn them; one can go on as if
 one had never studied—old lessons.
 
@@ -3335,6 +3336,7 @@ bookseller._
 
  ● Typos fixed; non-standard spelling and dialect retained.
  ● Enclosed italics font in _underscores_.
+
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74866 ***
